@@ -229,17 +229,16 @@ function create_config( )
     "feedback",
     "all"
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {150575718,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {90312082},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[
     TeleDark Anti Spam Bot v2.1
 
-  📢 Channel : @TeleDarkCh
   👤 Admin : @AmirDark
 
-  🙏 Special Thanks :
+  🙏 Special Thanks :@mohammad20162015
 
         @mehrab_wj
         @PokerFace_Dev
@@ -366,7 +365,7 @@ function create_config( )
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-   👿 TeleDark By @AmirDark 👿
+   👿 TeleDark By @mohammad20162015 👿
    
 ]]
 
